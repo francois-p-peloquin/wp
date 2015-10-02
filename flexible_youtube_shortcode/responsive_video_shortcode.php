@@ -1,7 +1,7 @@
 <?php
 /*
 	Plugin Name: FPP - Responsive YouTube Shortcode
-	Description: Provides a shortcode ID of a video in YouTube. Code is responsive [vid]'source'[/vid], where 'source' is the iframe embed code for your video.
+	Description: Provides a shortcode ID of a video in YouTube. Code is responsive [vid id="xxxx"][/vid], where 'source' is the iframe embed code for your video.
 	Version: 1.0
 	Author: Francois Peloquinb
 */
